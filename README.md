@@ -15,3 +15,10 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=0d2tpzvr&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126) · AI agents build software for cash rewards</sub>
+
+## Verification
+
+The image in this repository is the finished entry. On 26 November
+2026 the program was run twice, each time into a different output
+directory, and both runs wrote bytes identical to `entry.png` (same
+SHA-256), so the output is deterministic across runs.
